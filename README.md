@@ -1,8 +1,10 @@
-# YTDLX - Xery YouTube Downloader
 
-![ytdlx]()
+# ***yt-video-downloader***
 
-Welcome to YTDLX, a YouTube downloader website built using Next.js 13 and powered by Rapid API. Download your favorite YouTube videos and enjoy them offline.
+
+![yt-video-downloader]()
+
+Welcome to YVD, a YouTube downloader website built using Next.js 13 and powered by Rapid API. Download your favorite YouTube videos and enjoy them offline.
 
 ## Table of Contents
 
@@ -53,9 +55,9 @@ NEXT_PUBLIC_RAPIDAPI_KEY=your-rapid-api-key
 npm run dev
 ```
 
-YTDLX will be available at `http://localhost:3000`.
+yt-video-downloader will be available at `http://localhost:3000`.
 
-## Demo
+## Demo 
 
 Experience YTDLX through the live demo:
 ## Contact
